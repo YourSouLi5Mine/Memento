@@ -20,3 +20,7 @@ state so that the object can be returned to this state later.
 5. Caretaker holds on to (but cannot peek into) the Memento.
 6. Caretaker knows when to "roll back" the originator.
 7. Originator reinstates itself using the saved state in the Memento.
+
+> References
+>
+> https://sourcemaking.com/design_patterns/memento
