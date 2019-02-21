@@ -24,3 +24,5 @@ state so that the object can be returned to this state later.
 > References
 >
 > https://sourcemaking.com/design_patterns/memento
+>
+> https://medium.com/@dljerome/design-patterns-in-ruby-memento-1287f926fd0a
